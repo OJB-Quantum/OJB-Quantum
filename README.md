@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Onri @OJB-Quantum
-- 👀 I’m interested in quantum computing hardware development & computation.
+- 👀 My interest is in quantum computing hardware development & quantum computation.
 - 🌱 I’m currently learning how to benchmark & evaluate quantum hardware designs for device patterning in my cleanroom fabrication facility.
 - 📫 How to reach me: z.umn.edu/ojb-LinkedIn
 

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Onri @OJB-Quantum. I'm a Navaho, 100%. 
 - 👀 My interest is in quantum hardware engineering, quantum computation, data-driven graphics, & generative design.
-- 🌱 I’m currently leading a quantum hardware team working on integration of nature-inspired quantum hardware designs into quantum processor chips in my nanofabrication facility (cleanroom).
+- 🌱 I’m currently leading a quantum hardware team working on integration of nature-inspired quantum hardware designs into quantum processor chips in my nanofabrication facility (cleanroom). I spend a lot of time back and forth from my office to the cleanroom and back.
 - 📫 How to reach me: z.umn.edu/ojb-LinkedIn 
 
 <!---

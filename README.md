@@ -9,6 +9,7 @@
 - [▶️ My Quantum Hardware Lecture Series available on YouTube](https://youtube.com/playlist?list=PLD9iE8dbH_2W0ww1HL1gSskSYPcSlf6cd&si=x4Ye02BLP9Xcd7ng).
 
 My Quantum Computer Modeled in Blender:
+
 ![ezgif-1-731c8dbc9e](https://github.com/OJB-Quantum/OJB-Quantum/assets/88035770/5d88de7b-5330-448a-95fd-6c5b306200c1)
 
 

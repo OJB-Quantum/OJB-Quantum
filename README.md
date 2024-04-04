@@ -1,7 +1,7 @@
 - 👋🏽 Hi, I’m Onri @OJB-Quantum. I'm a Diné (Navaho) man, 100% Indigenous American, doing PhD work on quantum computing hardware.
 - 👀 My interest is in quantum hardware engineering, nanofabrication engineering, quantum computation, generative design, & data-driven 3D modeling.
 - 🌱 I’m currently leading a team of quantum hardware engineers @UMN, working on the integration of nature-inspired designs into quantum processor chips & cryogenic memory made of beyond-CMOS nanotechnology in my nanofabrication facility (cleanroom). I spend a lot of time back & forth from my office to the cleanroom.
-- 🏢 I'm currently also a quantum hardware engineer at IBM Research, Yorktown Heights ([TJ Watson Research Center](https://en.wikipedia.org/wiki/Thomas_J._Watson_Research_Center)). Here, I advance the scaling/ accuracy of qubits using cryogenic classical memory chips for qubit control/ readout data.
+- 🏢 I'm currently also a Quantum Hardware Engineer at IBM Research, Yorktown Heights ([TJ Watson Research Center](https://en.wikipedia.org/wiki/Thomas_J._Watson_Research_Center)) & an NSF Fellow. Here, I advance the scaling/ accuracy of qubits using cryogenic classical memory chips for qubit control/ readout data.
 - 📫 How to reach me: [z.umn.edu/ojb-LinkedIn](https://www.linkedin.com/in/onri-jay-benally-a33816125)
 - 📻 [International podcast about my research journey available on Spotify](https://open.spotify.com/episode/3WRkVCatN20bEU65hdjRSH).
 - 📔 [National magazine about my life journey available on Winds of Change](https://read.nxtbook.com/aises/winds_of_change/summer_2019/cover.html).

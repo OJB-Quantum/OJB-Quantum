@@ -5,6 +5,8 @@
 - 📫 How to reach me: [z.umn.edu/ojb-LinkedIn](https://www.linkedin.com/in/onri-jay-benally-a33816125)
 - [:radio: International podcast about my research journey available on Spotify](https://open.spotify.com/episode/3WRkVCatN20bEU65hdjRSH).
 - [:arrow_forward: My Quantum Hardware Lecture Series available on YouTube](https://youtube.com/playlist?list=PLD9iE8dbH_2W0ww1HL1gSskSYPcSlf6cd&si=x4Ye02BLP9Xcd7ng).
+- [National magazine about my life journey available on Winds of Change](https://read.nxtbook.com/aises/winds_of_change/summer_2019/cover.html).
+- []().
 
 <!---
 OJB-Quantum/OJB-Quantum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

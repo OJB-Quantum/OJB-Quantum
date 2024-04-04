@@ -9,7 +9,6 @@
 - []().
 
 My Quantum Computer Modeled in Blender:
-______________________________________________________________________________________
 ![ezgif-1-731c8dbc9e](https://github.com/OJB-Quantum/OJB-Quantum/assets/88035770/5d88de7b-5330-448a-95fd-6c5b306200c1)
 
 

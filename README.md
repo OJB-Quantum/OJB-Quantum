@@ -5,7 +5,7 @@
 - 🧑‍🔧 I have been working as a researcher since I was 19 yrs old. To this day, I have trained 16 researchers in the lab on the nanofabrication engineering of quantum devices.
 - 📫 How to reach me: [z.umn.edu/ojb-LinkedIn](https://www.linkedin.com/in/onri-jay-benally-a33816125)
 - [📻 International podcast about my research journey available on Spotify](https://open.spotify.com/episode/3WRkVCatN20bEU65hdjRSH).
-- [📔National magazine about my life journey available on Winds of Change](https://read.nxtbook.com/aises/winds_of_change/summer_2019/cover.html).
+- [📔 National magazine about my life journey available on Winds of Change](https://read.nxtbook.com/aises/winds_of_change/summer_2019/cover.html).
 - [▶️ My Quantum Hardware Lecture Series available on YouTube](https://youtube.com/playlist?list=PLD9iE8dbH_2W0ww1HL1gSskSYPcSlf6cd&si=x4Ye02BLP9Xcd7ng).
 
 My quantum computer modeled in Blender (left), nano MTJ array chip (center), & Mo superconductor-based quantum chip (right):

@@ -9,7 +9,7 @@
 - 📔 [National magazine about my life journey available on Winds of Change](https://read.nxtbook.com/aises/winds_of_change/summer_2019/cover.html).
 - ▶️ [My Quantum Hardware Lecture Series available on YouTube](https://youtube.com/playlist?list=PLD9iE8dbH_2W0ww1HL1gSskSYPcSlf6cd&si=x4Ye02BLP9Xcd7ng).
 - 📖 [Encyclopedia feature of me speaking in the Diné (Navaho) language](https://www.omniglot.com/writing/navajo.htm#:~:text=Sample%20text%20in%20Navajo).
-- ⚡[A Website I Made on ArchGIS on Things to Consider When Building Electric Bicycles](https://experience.arcgis.com/experience/0e0409089f9442bbb4a26493d761aadc).
+- ⚡[A website I made on ArchGIS on things to consider when building electric bicycles](https://experience.arcgis.com/experience/0e0409089f9442bbb4a26493d761aadc).
 
 My quantum computer modeled in Blender (left), nano MTJ array chip (center), & 400 qubit Mo superconductor-based quantum chip (right):
 

@@ -2,6 +2,7 @@
 - 👀 My interest is in quantum hardware engineering, nanofabrication engineering, quantum computation, generative design, & data-driven 3D modeling.
 - 🏢 I'm currently an NSF Graduate Research Fellow & Quantum Hardware Engineer @IBM Research, Yorktown Heights ([TJ Watson Research Center](https://research.ibm.com/labs/yorktown-heights)). Here, I advance the scaling/ accuracy of qubits using cryogenic/ quantum-limited amplifiers for qubit readout data.
 - 🌱 I’m also leading a team of quantum hardware engineers for the duration of my PhD @UMN, working on the integration of nature-inspired designs into quantum processor chips & cryogenic magnetic memory made of beyond-CMOS nanotechnology in my nanofabrication facility (cleanroom). I spend a lot of time back & forth between my office & the cleanroom.
+- 🧑🏻‍🔬 Onri's explaination of quantum computing hardware: "In a sense, the physical realization of a quantum computer is an automated scatterometry of quantum logic gates."
 - 🖥️ You can ask GPT or Copilot about me & it will tell you more about my research over the past decade.
 - 📫 How to reach me: [z.umn.edu/ojb-LinkedIn](https://www.linkedin.com/in/onri-jay-benally-a33816125)
 - 🌐 [Google snippet about Onri](https://www.google.com/search?q=onri+benally).

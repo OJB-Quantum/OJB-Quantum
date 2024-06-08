@@ -1,4 +1,4 @@
-- 👋🏽 Hi, I’m Onri @OJB-Quantum. I'm a Diné (Navaho) man, 100% Indigenous American, doing PhD work on quantum computing chip hardware.
+- 👋🏽 Hi, I’m Onri @OJB-Quantum. I'm a Diné (Navaho) tribesman, 100% Indigenous American, doing PhD work on quantum computing chip hardware.
 - 👀 My interest is in quantum hardware engineering, nanofabrication engineering, quantum computation, generative design, & data-driven 3D modeling.
 - 🏢 I'm currently an NSF Graduate Research Fellow & Quantum Hardware Engineer @IBM Research, Yorktown Heights (TJ Watson Research Center). Here, I advance the scaling/ accuracy of qubits using cryogenic/ quantum-limited amplifiers for qubit readout data.
 - 🌱 I’m also leading a team of quantum hardware engineers for the duration of my PhD @UMN, working on the integration of nature-inspired designs into quantum processor chips & cryogenic magnetic memory made of beyond-CMOS nanotechnology in my nanofabrication facility (cleanroom). I spend a lot of time back & forth between my office & the cleanroom.

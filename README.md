@@ -12,7 +12,7 @@
 - ▶️ [My Quantum Hardware Lecture Series available on YouTube](https://youtube.com/playlist?list=PLD9iE8dbH_2W0ww1HL1gSskSYPcSlf6cd&si=x4Ye02BLP9Xcd7ng).
 - 📖 [Encyclopedia feature of me speaking in the Diné (Navaho) language](https://www.omniglot.com/writing/navajo.htm#:~:text=Sample%20text%20in%20Navajo).
 - ⚡ [A website I made on ArchGIS on things to consider when building electric bicycles](https://experience.arcgis.com/experience/0e0409089f9442bbb4a26493d761aadc).
-- 🎬 [My quantum chip rendering tutorials featured by Dr. Zlakto Minev](https://twitter.com/zlatko_minev?lang=en).
+- 🎬 [My quantum chip rendering tutorials featured by Dr. Zlakto Minev](https://x.com/zlatko_minev/status/1812879194285563984).
 - 🎬 [My quantum chip rendering tutorials featured in the Brian Siegelwax blog](https://bsiegelwax.substack.com/i/145883109/rendering-laughter).
 
 Some of my stuff: quantum computer modeled in Blender (first), 3D-printed quantum computer (second), nano MTJ array memory chip (third), & 400-qubit Mo superconductor-based quantum processor chip (fourth):

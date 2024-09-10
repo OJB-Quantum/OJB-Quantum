@@ -7,7 +7,7 @@
 - 📫 How to reach me: [z.umn.edu/ojb-LinkedIn](https://www.linkedin.com/in/onri-jay-benally-a33816125)
 - 🌐 [Google snippet about Onri](https://www.google.com/search?q=onri+benally).
 - 📻 [International podcast about my research journey available on Spotify](https://open.spotify.com/episode/3WRkVCatN20bEU65hdjRSH) & [Amazon Music](https://music.amazon.com/podcasts/efddff70-bf75-4017-b3b2-97bf48733efb/episodes/e0495b26-e803-40e6-80d3-75efc426f284/technology-in-science-a-barrington-james-podcast-how-being-raised-in-a-tribe-led-to-studying-quantum-computers).
-- ⚛️ [Details about my National Science Foundation Graduate Fellowship](https://cse.umn.edu/ece/feature-stories/onri-jay-benally-receives-2024-nsf-graduate-research-fellowship & https://grad.umn.edu/news-events/news-overview/2024-25-external-fellowship-recipients).
+- ⚛️ [Details about my National Science Foundation Graduate Fellowship](https://cse.umn.edu/ece/feature-stories/onri-jay-benally-receives-2024-nsf-graduate-research-fellowship) & [2024-25 External Fellowship Recipients](https://grad.umn.edu/news-events/news-overview/2024-25-external-fellowship-recipients).
 - 📔 [National magazine about my life journey available on Winds of Change](https://read.nxtbook.com/aises/winds_of_change/summer_2019/cover.html).
 - ▶️ [My Quantum Hardware Lecture Series available on YouTube](https://youtube.com/playlist?list=PLD9iE8dbH_2W0ww1HL1gSskSYPcSlf6cd&si=x4Ye02BLP9Xcd7ng).
 - 📖 [Encyclopedia feature of me speaking in the Diné (Navaho) language](https://www.omniglot.com/writing/navajo.htm#:~:text=Sample%20text%20in%20Navajo).

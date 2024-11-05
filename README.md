@@ -28,7 +28,10 @@ You can click the Preview link to take a look at your changes.
 <table>
   <tr>
     <td width="640" align="center">
-      <img src="https://streak-stats.demolab.com?user=evmckinney9&theme=leafy&exclude_days=Sun%2CSat" alt="GitHub Streak"/>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=OJB-Quantum&theme=github-dark" alt="GitHub Streak"/>
+      </a>
     </td>
   </tr>
 </table>
+

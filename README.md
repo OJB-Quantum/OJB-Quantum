@@ -25,5 +25,3 @@ Some of my stuff: quantum computer modeled in Blender (first), 3D-printed quantu
 OJB-Quantum/OJB-Quantum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!-- Widgets Column -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=OJB-Quantum&theme=github-dark&hide_border=true)](https://git.io/streak-stats)

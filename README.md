@@ -1,4 +1,4 @@
-![1723269720946](https://github.com/user-attachments/assets/8d8efcd8-3f7d-4e24-bec4-6f1e41856c9e)
+![20240821_101915_043](https://github.com/user-attachments/assets/9ac28e7a-f47e-4fbc-8c51-70903f96d9dd)
 
 - 👋🏽 Hi, I’m Onri @OJB-Quantum. I'm a Diné (Navaho) tribesman, 100% Indigenous American, doing PhD work on quantum computing chip hardware & beyond CMOS classical memory devices.
 - 👀 My interest is in sustainable quantum hardware engineering, nanofabrication engineering, quantum computation, generative design, & data-driven 3D modeling.

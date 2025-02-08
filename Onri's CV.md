@@ -7,14 +7,14 @@ Minneapolis, MN | ojbs.name@gmail.com | (928) 275-1442 | [LinkedIn](https://tiny
 ## PROFICIENT SKILLS
 
 ### HARDWARE:
-- **Dilution refrigerator**: Bluefors XLDsI, microwave packaging, cryogenic wiring & mixing chamber configuration.
+- **Dilution refrigerator**: Bluefors XLDsl, cryogenic wiring, microwave packaging, & mixing chamber configuration to server.
 - **Optical & electron-beam lithography**: Karl Suss-MA6, Heidelberg DWL200, Raith EBPG-5000+ (100 kV).
-- **Deposition & plasma etching**: Ion Probe, PECVD, ALD, RIE, IBE, sputtering, e-beam evaporation.
+- **Deposition & plasma/ dry etching**: Ion Probe, PECVD, ALD, RIE, IBE, sputtering, e-beam evaporation.
 - **Imaging**: SEM, AFM, surface 2D/3D profilometry, 3D-scanning microscopy, 1-photon excitation.
 - **Machining & additive manufacturing**: Metal mill, lathe, FDM, SLA, IR LASER cutting (150W).
 
 ### SOFTWARE:
-- Qiskit, Qiskit Metal (Q-EDA), MS Office, AutoCAD, Fusion 360, KLayout, LinkCAD, MuMax3, Git, Tcl/Tk, Julia, Python + GPT-4, Colab, Blender 3D Graphics, SimScale CFD, Elmer FEM, Quanscient Allsolve, LaTeX, Genisys BEAMER, Linux Terminal + RealVNC.
+- Qiskit, Qiskit Metal (Q-EDA), MS Office, AutoCAD, Fusion 360, KLayout, LinkCAD, MuMax3, Git, Tcl/Tk, Julia, Python + GPT-4, Colab, Blender 3D Graphics, SimScale CFD, Elmer FEM, Quanscient Allsolve ( FEM simulation), LaTeX, Genisys BEAMER, Linux Terminal + RealVNC.
 
 ### PROBLEM SOLVING & COMMUNICATION:
 - Ethical leadership, optimism, project management, quantum technology advocacy, idea generation, first principles & finite element methods, rapid prototyping.
@@ -27,11 +27,10 @@ Minneapolis, MN | ojbs.name@gmail.com | (928) 275-1442 | [LinkedIn](https://tiny
 **International Business Machines Corporation (IBM) | Thomas J. Watson Research Center | Kevin Tien Group**  
 **Yorktown Heights, NY**  
 **[May 2024 - August 2024]**
-- Advanced quantum-limited amplifier readout development for large-scale quantum computing.
-- Automated low-temperature quantum device materials characterization.
-- High-throughput resonator device testing; used Bluefors XLDsI dilution fridge.
-- Extensive documentation on microwave resonator-based loss probing of Nb & NbOx thin films.
-- Recognized for high-quality presentations and visualization initiatives.
+- Advanced the wide-bandwidth quantum-limited amplifier development for large-scale quantum computing through superconductivity research.
+- Automated the high-throughput characterization of loss in Nb & NbOx-based quantum chip samples probed with resonators at 10 mK.
+- Developed critical expertise in configuring Bluefors XLDsI dilution fridges and hardware connections to IBM server for experiments.
+- Recognized by IBM executive leadership for my education initiatives on quantum engineering and visual storytelling using Blender.
 
 ### GRADUATE RESEARCH ASSISTANT  
 **University of Minnesota | Nano Magnetism & Quantum Spintronics Lab | Jian-Ping Wang Group | ECE Dept.**  

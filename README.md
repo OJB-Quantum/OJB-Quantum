@@ -1,7 +1,7 @@
 ![406542003-9ac28e7a-f47e-4fbc-8c51-70903f96d9dd](https://github.com/user-attachments/assets/3cbd27bc-3348-40b3-ad42-d6e718ca7866)
 
 - 👋🏽 Hi, I’m Onri @OJB-Quantum. I'm a Diné (Navaho) tribesman, 100% Indigenous American, doing PhD work on quantum computing chip hardware & beyond CMOS classical memory devices based on spintronics.
-- 🤠 I'm self-taught in mathematics, linguistics, practical electronics, and scientific computing.
+- 🤠 I'm self-taught in mathematics, linguistics, practical electronics, & scientific computing.
 - 👀 My interest is in sustainable quantum hardware engineering, nanofabrication engineering, quantum computation, generative design, & data-driven 3D modeling.
 - 🧑🏻‍🏫 My areas of expertise include: electron-beam lithography, nanopatterning, idea generation, implementation, & demonstration.
 - 🏢 I'm a former Quantum Hardware Engineer at IBM Research, Yorktown Heights, New York ([TJ Watson Research Center](https://research.ibm.com/labs/yorktown-heights)), planning to return in the future. At IBM I advanced the scaling/ accuracy of quantum-centeric supercomputing via quantum-limited parametric amplifier superconducting materials research for high bandwidth quantum processors. I also generated extensive documentation on XLDs Bluefors dilution fridges & highly experimental processes on superconducting chiplet measurement automation. (This made me the 1st Native/ Indigenous American Quantum Hardware Engineer/ Quantum Computing Engineer).

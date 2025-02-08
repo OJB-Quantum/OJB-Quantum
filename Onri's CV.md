@@ -163,7 +163,7 @@ $(+35)$ hours of school leadership \& service
 2010-to-Present Public speaker/ oral presenter to academic/ public audiences on STEM topics related to research experiences/ work
 2016 Mathematics conference instructor - LEGO robotics - White Horse High School, (Montezuma Creek, UT)
 
-```
+
 AWARDS & RECOGNITION
 2024 IBM Media Recognition (Life @ IBM, Global)
 2 0 2 4 ~ N a t i o n a l ~ S c i e n c e ~ F o u n d a t i o n ~ G r a d u a t e ~ R e s e a r c h ~ F e l l o w s h i p ~ [ P r e s t i g i o u s ] ~
@@ -187,12 +187,10 @@ AWARDS & RECOGNITION
 2013 Student Council Presidential Leadership Medal
 2012 Award for Exceeding Arizona Instrument to Measure Standards
 2010-to-2014 Honor Roll Award
-```
 
 
 [^0]:    STUDENT TECHNICIAN • UNIVERSITY OF MINNESOTA • ADVANCED IMAGING SERVICE FOR OBJECTS \& SPACES LAB |SAMANTHA PORTER GROUP (MINNEAPOLIS, MN)
     [FEBRUARY 2020 - MAY 2020]
-
     - Developed 3D modeling techniques \& imaging hardware for photogrammetry systems (low-cost single-shot static 3D scanning \& image stitching).
     - Collaborated with small staff team on 3D virtual reality (VR) content for low-cost supply integration.
 

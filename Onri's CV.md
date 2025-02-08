@@ -35,7 +35,7 @@ Minneapolis, MN | ojbs.name@gmail.com | (928) 275-1442 | [LinkedIn](https://tiny
 ### GRADUATE RESEARCH ASSISTANT  
 **University of Minnesota | Nano Magnetism & Quantum Spintronics Lab | Jian-Ping Wang Group | ECE Dept.**  
 **Minneapolis, MN**  
-**[February 2020 - June 2022]**
+**[February 2020 - June 2022]** **[February 2020 - June 2022]** 
 - Trained 11 PhD-level users and 1 faculty in quantum device fabrication.
 - Developed recipes for patterning high-yield Perpendicular Magnetic Tunnel Junctions (p-MTJs).
 - Co-authored peer-reviewed publications on spintronic devices and magnetic materials.

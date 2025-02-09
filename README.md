@@ -28,7 +28,7 @@ Some of my stuff: quantum computer modeled in Blender (first), 3D-printed quantu
 
 ---
 
-## [Click Here to View Onri's CV](https://github.com/OJB-Quantum/OJB-Quantum/blob/main/Onri%20Jay%20Benally_CV_1_inch_Margins_Fall%202024.pdf) 
+## [Click Here to View Onri's CV](https://github.com/OJB-Quantum/OJB-Quantum/blob/main/Onri's%20CV.md) 
 
 <!---
 OJB-Quantum/OJB-Quantum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

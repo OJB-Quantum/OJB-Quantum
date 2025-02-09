@@ -191,7 +191,7 @@ Minneapolis, MN | ojbs.name@gmail.com | (928) 275-1442 | [LinkedIn](https://www.
 
 ---
 
-### Click to view Onri's CV: [![Open](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/OJB-Quantum/OJB-Quantum/blob/main/Onri's_CV.ipynb)
+### Click to view Onri's CV Rendered as Notebook: [![Open](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/OJB-Quantum/OJB-Quantum/blob/main/Onri's_CV.ipynb)
 
 <!---
 OJB-Quantum/OJB-Quantum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,147 +1,158 @@
-## ONRI JAY BENALLY
+# Onri Jay Benally
 
-Minneapolis, MN | ojbs.name@gmail.com | (928) 275-1442 | [LinkedIn](https://tinyurl.com/OJB-Linkedln)
+Minneapolis, MN | ojbs.name@gmail.com | (928) 275-1442 | [LinkedIn](https://tinyurl.com/OJB-LinkedIn)
 
 ---
 
-## PROFICIENT SKILLS
+## Proficient Skills (Expertise Highlighted in Bold)
 
-### HARDWARE:
+### Hardware:
 - **Dilution refrigerator**: Bluefors XLDsl, cryogenic wiring, microwave packaging, & mixing chamber configuration to server.
-- **Optical & electron-beam lithography**: Karl Suss-MA6, Heidelberg DWL200, Raith EBPG-5000+ (100 kV).
-- **Deposition & plasma/ dry etching**: Ion Probe, PECVD, ALD, RIE, IBE, sputtering, e-beam evaporation.
-- **Imaging**: SEM, AFM, surface 2D/3D profilometry, 3D-scanning microscopy, 1-photon excitation.
-- **Machining & additive manufacturing**: Metal mill, lathe, FDM, SLA, IR LASER cutting (150W).
+- **Optical & electron-beam lithography**: Karl Suss-MA6 • Heidelberg DWL200 • Raith EBPG-5000+ (100 kV).
+- **Deposition & plasma etching**: Ion Probe • PECVD • ALD • RIE • IBE • Sputtering • E-beam evaporation.
+- **Imaging**: SEM • AFM • Surface 2D/3D profilometry • 3D-scanning microscopy • 1-photon excitation.
+- **Machining & additive manufacturing**: Metal mill • Lathe • FDM • SLA • IR LASER cutting (150W).
 
-### SOFTWARE:
-- Qiskit, Qiskit Metal (Q-EDA), MS Office, AutoCAD, Fusion 360, KLayout, LinkCAD, MuMax3, Git, Tcl/Tk, Julia, Python + GPT-4, Colab, Blender 3D Graphics, SimScale CFD, Elmer FEM, Quanscient Allsolve ( FEM simulation), LaTeX, Genisys BEAMER, Linux Terminal + RealVNC.
+### Software:
+- **Quantum Computing**: Qiskit • Qiskit Metal (Q-EDA).
+- **Engineering & Design**: MS Office • AutoCAD • Fusion 360 • KLayout • LinkCAD.
+- **Simulation & Analysis**: MuMax3 • SimScale CFD • Elmer FEM • Quanscient Allsolve.
+- **Programming**: Python + GPT-4 • Julia • Git • Tcl/Tk.
+- **3D & Visualization**: Blender 3D Graphics.
+- **Others**: LaTeX • Genisys BEAMER • Linux Terminal + RealVNC.
 
-### PROBLEM SOLVING & COMMUNICATION:
-- Ethical leadership, optimism, project management, quantum technology advocacy, idea generation, first principles & finite element methods, rapid prototyping.
+### Problem Solving & Communication:
+- Ethical leadership • Optimism • Project management • Quantum technology advocacy.
+- Idea generation • 1st principles & finite element methods • Rapid prototyping.
 
 ---
 
-## EXPERIENCE
+## Experience
 
-### QUANTUM HARDWARE ENGINEER - PHD INTERN  
-**International Business Machines Corporation (IBM) | Thomas J. Watson Research Center | Kevin Tien Group**  
-**Yorktown Heights, NY**  
-**[May 2024 - August 2024]**
-- Advanced the wide-bandwidth quantum-limited amplifier development for large-scale quantum computing through superconductivity research.
+### Quantum Hardware Engineer – PhD Intern  
+**IBM Thomas J. Watson Research Center | Kevin Tien Group**  
+*May 2024 – August 2024*  
+- Advanced the wide-bandwidth quantum-limited amplifier development for large-scale quantum computing through **superconductivity research**.
 - Automated the high-throughput characterization of loss in Nb & NbOx-based quantum chip samples probed with resonators at 10 mK.
-- Developed critical expertise in configuring Bluefors XLDsI dilution fridges and hardware connections to IBM server for experiments.
-- Recognized by IBM executive leadership for my education initiatives on quantum engineering and visual storytelling using Blender.
+- Developed critical expertise in configuring **Bluefors XLDsI dilution fridges** & hardware connections to IBM server for experiments.
+- Recognized by IBM executive leadership for my **education initiatives** on quantum engineering and visual storytelling using Blender.
 
-### GRADUATE RESEARCH ASSISTANT  
-**University of Minnesota | Nano Magnetism & Quantum Spintronics Lab | Jian-Ping Wang Group | ECE Dept.**  
-**Minneapolis, MN**  
-**[February 2020 - June 2022]** **[February 2020 - June 2022]** 
-- Trained 11 PhD-level users and 1 faculty in quantum device fabrication.
-- Developed recipes for patterning high-yield Perpendicular Magnetic Tunnel Junctions (p-MTJs).
-- Co-authored peer-reviewed publications on spintronic devices and magnetic materials.
+### Graduate Research Assistant  
+**University of Minnesota – Nano Magnetism & Quantum Spintronics Lab**  
+*February 2020 – June 2022*  
+- Trained 11 PhD students & 1 faculty in **quantum device fabrication** & **scanning electron microscopy**.
+- Developed **high-yield Perpendicular Magnetic Tunnel Junctions (p-MTJs)** for **spintronic applications**.
+- Co-authored publications on **spintronic devices** and **magnetic brain interface chips**.
 
-### RESEARCH ASSISTANT  
-**University of Minnesota | Quantum Devices & Materials Lab | Vlad Pribiag Group | Physics Dept.**  
-**Minneapolis, MN**  
-**[June 2017 - August 2017]**
-- Optimized development of InSb Majorana nanowire devices.
-- Created process recipes for e-beam lithography, planarization, and plasma etching calibration.
+### Student Technician  
+**University of Minnesota – Advanced Imaging Service for Objects & Spaces Lab**  
+*February 2020 – May 2020*  
+- Developed **3D modeling techniques** for photogrammetry and **3D virtual reality (VR) content**.
 
-### ELECTRIC VEHICLE RESEARCHER (VOLUNTEER)  
-**Utah State University | Electric Vehicle & Roadway Test Track Facility | Regan Zane Group | ECE Dept.**  
-**Logan, UT**  
-**[January 2017 - April 2017]**
-- Inspected and tested +60 kW electric vehicle subsystems.
+### Research Assistant  
+**University of Minnesota – Quantum Devices & Materials Lab**  
+*June 2017 – August 2017*  
+- Optimized fabrication of **InSb Majorana nanowire devices** for **topological quantum computing**.
 
----
-
-## EDUCATION
-
-### **Doctor of Philosophy (Ph.D.), Electrical Engineering**  
-**Quantum Hardware / Spintronics Focused**  
-**University of Minnesota-Twin Cities**  
-**[June 2022 - April 2027]**
-
-### **Bachelor of Science (B.S.Md.S.), Multidisciplinary Studies**  
-**University of Minnesota-Twin Cities**  
-**[August 2018 - December 2021]**
-
-### **Associate of Science (A.S.), General Studies, Physics**  
-**Utah State University-Eastern**  
-**[August 2014 - December 2016]**
-
-### **Diploma: General Studies, Rank: #1**  
-**Red Valley/Cove High School**  
-**[August 2010 - May 2014]**
+### Electric Vehicle Researcher (Volunteer)  
+**Utah State University – Electric Vehicle & Roadway Test Track Facility**  
+*January 2017 – April 2017*  
+- Tested **+60 kW electric vehicle subsystems**, including **wireless power transfer systems**.
 
 ---
 
-## CERTIFICATIONS
+## Education
 
-- **IBM Certified Quantum Developer - Quantum Computation Using Qiskit (Professional)**
-- **Quantum Chemistry with Variational Quantum Eigensolver (IBM, 2024)**
-- **Quantum Business Foundations (IBM, 2024)**
+- **Ph.D. Electrical Engineering** (Quantum Hardware / Spintronics)  
+  *University of Minnesota-Twin Cities (June 2022 – April 2027)*  
 
----
+- **B.S.Md.S. Multidisciplinary Studies**  
+  *University of Minnesota-Twin Cities (August 2018 – December 2021)*  
 
-## PUBLICATIONS & PAPERS
+- **A.S. General Studies, Physics**  
+  *Utah State University-Eastern (August 2014 – December 2016)*  
 
-1. **Benally, O.J.**, et al. (2023). Magnetic random-access memory (MRAM) for embedded quantum computing hardware. *GOMACTech* [Submitted Abstract].
-2. Zhang, D., **Benally, O.J.**, et al. (2023). Robust negative longitudinal magnetoresistance and spin-orbit torque. *Nature Communications, 14(1), 4151*.
-3. Zhou, B., **Benally, O.J.**, et al. (2023). Perpendicular magnetic anisotropy, tunneling magnetoresistance, and spin-transfer torque effect. *Scientific Reports, 13(1), 3454*.
-4. Sheng, P., **Benally, O.J.**, et al. (2022). Thermal contribution in electrical switching. *Journal of Applied Physics, 132(7)*.
-
----
-
-## PROJECTS
-
-- Full list of **16+ hardware projects**: [tinyurl.com/OJB-Projects-001](https://tinyurl.com/OJB-Projects-001)
+- **Diploma (Rank #1)**  
+  *Red Valley / Cove High School (August 2010 – May 2014)*  
 
 ---
 
-## VOLUNTEER ACTIVITIES
+## Certifications
 
-- **2024 IBM Impact, Covenant House International Volunteer**
-- **2023 UMN CSE Major Exploration Volunteer** (Created a 3D-Printed Mini Quantum Computer)
-- **2015-2016 USU STEAM EXPO Volunteer**
-- **2013-2014 Chuska Challenge Mountain Bike Race Volunteer**
+- **IBM Certified Quantum Developer – Qiskit v0.2X [Professional]** *(02/2022)*
+- **Quantum Chemistry, with Variational Quantum Eigensolver** *(06/2024)*
+- **Quantum Business Foundations** *(06/2024)*
+- **IBM Growth Behaviors** *(08/2024)*
+- Full list: [z.umn.edu/OJB-Certifications](https://z.umn.edu/OJB-Certifications)
 
 ---
 
-## ASSOCIATIONS
+## Publications & Papers
+- **Benally, O.J. et al.** (2023). *Magnetic random-access memory (MRAM) for embedded quantum computing hardware* (GOMACTech) – Main author.
+- **Zhang, D. et al.** (2023). *Robust negative longitudinal magnetoresistance in sputtered Pt₃Sn* (Nature Communications).
+- **Zhou, B. et al.** (2023). *Spin-transfer torque effect in magnetic tunnel junctions with Nb layers* (Scientific Reports).
+- More publications: [Google Scholar](https://z.umn.edu/OJB-Google-Scholar)
 
-- **2024** Arizona State University (ASU) Quantum Collaborative Steering Committee Member
-- **2023** Minneapolis Quantum Association (MQA) Member
-- **2022** QuantumGrad Mentor & Lecturer
+---
+
+## Projects
+
+- Full list of **+16 hardware projects**: [tinyurl.com/OJB-Projects-001](https://tinyurl.com/OJB-Projects-001)
+
+---
+
+## Associated Online Profiles
+
+- [GitHub](https://github.com/OJB-Quantum)  
+- [ORCID](https://orcid.org/0000-0002-8391-9105)  
+- [Google Scholar](https://z.umn.edu/OJB-Google-Scholar)  
+- [Credly](https://www.credly.com/users/onri-jay-benally)  
+
+---
+
+## Volunteer Activities
+
+- **2024** UMN CSE Major Exploration Volunteer *(Minneapolis, MN)*
+- **2024** IBM Impact, Covenant House International Volunteer *(Yorktown Heights, NY)*
+- **2023** UMN CSE Major Exploration Volunteer *(3D-printed mini quantum computer for outreach)*
+- **2015 & 2016** USU STEAM EXPO Volunteer *(Blanding, UT)*
+- **2012-2013** Red Valley / Cove High School Leadership Recognition *(35+ hours of leadership & service)*
+
+---
+
+## Leadership & Associations
+
+- **2024** ASU Quantum Collaborative Steering Committee Member
+- **2023** IBM Qiskit Fall Fest Extension Event Host
+- **2022** IBM Quantum Researchers Program Member
 - **2021** IEEE Quantum & IEEE UMN Tech Sub-Committee
+- **2016** American Indian Science & Engineering Society (AISES) Chapter Vice President
 
 ---
 
-## LEADERSHIP
+## Communication
 
-- **2023** IBM Qiskit Fall Fest Extension Event Main Host & Organizer
-- **2021** PhD Student Research Mentor
-- **2019** Nanofabrication Instructor for PhD Students
-- **2016** AISES Chapter Vice President
-- **2012-2014** Red Valley/Cove High School Student Council President
+- **2023** Quantum Collaborative Summit Keynote Speaker *(San Antonio, TX)*
+- **2010-Present** Public speaker on STEM & research topics
+- **2016** Mathematics conference instructor *(Montezuma Creek, UT)*
 
 ---
 
-## AWARDS & RECOGNITION
+## Awards & Recognition
 
-- **2024** IBM Media Recognition (Life @ IBM, Global)
-- **2024** NSF Graduate Research Fellowship (Prestigious)
-- **2023** Global Quantum Scholarship (Womanium Quantum, STEM Entrepreneurship Program)
-- **2022** UMN Departmental Fellowship/Assistantship
-- **2021** Raith GmbH Media Recognition (Nanofabrication Instrumentation Manufacturer)
-- **2019** Front Cover of National Magazine (Winds of Change, USA)
-
----
-
-## ONLINE PROFILES
-
-- **Google Scholar**: [z.umn.edu/OJB-Google-Scholar](https://z.umn.edu/OJB-Google-Scholar)
-- **GitHub**: [github.com/OJB-Quantum](https://github.com/OJB-Quantum)
-- **ORCID**: [orcid.org/0000-0002-8391-9105](https://orcid.org/0000-0002-8391-9105)
+- **2024** IBM Media Recognition *(Life @ IBM, Global)*
+- **2024** NSF Graduate Research Fellowship **[Prestigious]**
+- **2023** Global Quantum Scholarship *(Womanium Quantum)*
+- **2021** Robotics Education & Competition Foundation Media Recognition
+- **2021** UMN Media Recognition *(Hardwired for Science)*
+- **2019** National Magazine Cover *(Winds of Change)*
+- **2014** Presidential Scholar Award **[Highest University Award]**
+- **2014-2017** Chief Manuelito Scholar Award *(Highest Tribal Award)*
+- **2014** High School Valedictorian **(Rank #1 in District)**
 
 ---
+
+More info about Onri's awards & recognition 
+- <https://twin-cities.umn.edu/news-events/hardwired-science>
+- <https://cse.umn.edu/ece/feature-stories/onri-jay-benally-receives-2024-nsf-graduate-research-fellowship>
+- <https://open.spotify.com/episode/3WRkVCatN20bEU65hdjRSH>

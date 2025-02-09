@@ -66,7 +66,7 @@ Minneapolis, MN | ojbs.name@gmail.com | (928) 275-1442 | [LinkedIn](https://www.
 **International Business Machines Corporation (IBM) - Thomas J. Watson Research Center | Kevin Tien Group**  
 *May 2024 – August 2024*  
 - Advanced the **wide-bandwidth quantum-limited amplifier development** for large-scale quantum computing through **superconductivity research**.
-- Automated the high-throughput characterization of loss in Nb & NbOx-based quantum chip samples probed with resonators at 10 mK.
+- Automated the high-throughput characterization of loss in Nb & NbOx-based chip samples probed with resonators at 10 mK.
 - Developed critical expertise in configuring **Bluefors XLDsI dilution fridges** & hardware connections to IBM server for experiments.
 - Recognized by IBM executive leadership for my **education initiatives** on quantum engineering and visual storytelling using Blender.
 

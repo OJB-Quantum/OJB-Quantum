@@ -28,8 +28,8 @@ Some of my stuff: quantum computer modeled in Blender (first), 3D-printed quantu
 
 ---
 
-| |
-|-|
+| | |
+|-|-|
 | Click the icon on the right to view Onri's CV | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OJB-Quantum/OJB-Quantum/blob/main/Onri's_CV.ipynb) |
 
 <!---

@@ -187,7 +187,6 @@ Minneapolis, MN | ojbs.name@gmail.com | (928) 275-1442 | [LinkedIn](https://www.
 - **2014** Presidential Scholar Award **[Highest University Award]**
 - **2014-2017** Chief Manuelito Scholar Award *(Highest Tribal Award)*
 - **2014** High School Valedictorian **(Rank #1 in District)**
-- 
 
 ---
 

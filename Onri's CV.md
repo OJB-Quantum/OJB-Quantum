@@ -37,12 +37,17 @@ Minneapolis, MN | ojbs.name@gmail.com | (928) 275-1442 | [LinkedIn](https://tiny
 - Developed critical expertise in configuring **Bluefors XLDsI dilution fridges** & hardware connections to IBM server for experiments.
 - Recognized by IBM executive leadership for my **education initiatives** on quantum engineering and visual storytelling using Blender.
 
-### Graduate Research Assistant  
+### Graduate Research Assistant - PhD Student
 **University of Minnesota – Nano Magnetism & Quantum Spintronics Lab**  
-*February 2020 – June 2022*  
+*February 2020 – Present*  
+- Recognized as a **resident nanopatterning expert** on robust, solid-state, integrated, & dedicated spintronic chips. (8 years of hands-on fab experience).
+- Engineering & development of cryogenic classical magnetoresistive random-access memory (cryo-MRAM) & hybrid quantum processing unit (QPU) hardware using advanced, sustainable spintronic materials to enable next generation quantum error correction.
+- Led the development, engineering, & fabrication of high-quality superconducting Magnetic Tunnel Junction (MTJ) arrays & hybrid, magnetic spin qubits. (TaN, IrO2, RuO2, Nb). Device sizes (80 nm - 6 μm).
+- Chip patterning for computational magnetoresistive random-access memory (CRAM), spin-orbit torque magnetoresistive random-access memory (SOT-MRAM), and **millkelvin range cryogenic MRAM (cryo-MRAM)**.
 - Trained 11 PhD students & 1 faculty in **quantum device fabrication** & **scanning electron microscopy**.
 - Developed **high-yield Perpendicular Magnetic Tunnel Junctions (p-MTJs)** for **spintronic applications**.
-- Co-authored publications on **spintronic devices** and **magnetic brain interface chips**.
+- Co-authored publications on **spintronic devices research**.
+- Advocated for quantum hardware training. Created GitHub tutorials for an e-beam lithography process in the lab, based on qubit pattern generation in Qiskit Metal. 
 
 ### Student Technician  
 **University of Minnesota – Advanced Imaging Service for Objects & Spaces Lab**  

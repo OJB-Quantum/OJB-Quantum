@@ -28,7 +28,7 @@ Some of my stuff: quantum computer modeled in Blender (first), 3D-printed quantu
 
 ---
 
-> Onri's CV
+# > Onri's CV
 
 # Onri Jay Benally
 

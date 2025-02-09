@@ -63,7 +63,7 @@ Minneapolis, MN, ojbs.name@gmail.com, (928) 275-1442, [LinkedIn](https://www.lin
 ## Experience
 
 ### Quantum Hardware Engineer – PhD Intern  
-**IBM Thomas J. Watson Research Center | Kevin Tien Group**  
+**International Business Machines Corporation (IBM) - Thomas J. Watson Research Center | Kevin Tien Group**  
 *May 2024 – August 2024*  
 - Advanced the **wide-bandwidth quantum-limited amplifier development** for large-scale quantum computing through **superconductivity research**.
 - Automated the high-throughput characterization of loss in Nb & NbOx-based quantum chip samples probed with resonators at 10 mK.
@@ -87,6 +87,7 @@ Minneapolis, MN, ojbs.name@gmail.com, (928) 275-1442, [LinkedIn](https://www.lin
 *February 2020 – May 2020*  
 - Developed 3D modeling techniques & imaging hardware for photogrammetry systems (low-cost single-shot **static 3D scanning** & image stitching).
 - Collaborated with small staff team on **3D virtual reality (VR) content** for low-cost supply integration
+
 ### Research Assistant  
 **University of Minnesota – Quantum Devices & Materials Lab | Vlad Pribiag Group**  
 *June 2017 – August 2017*  

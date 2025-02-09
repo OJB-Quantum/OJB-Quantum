@@ -32,7 +32,7 @@ Some of my stuff: quantum computer modeled in Blender (first), 3D-printed quantu
 
 # Onri Jay Benally
 
-Minneapolis, MN | ojbs.name@gmail.com | (928) 275-1442 | [LinkedIn](https://www.linkedin.com/in/onri-jay-benally-a33816125/)
+Minneapolis, MN, ojbs.name@gmail.com, (928) 275-1442, [LinkedIn](https://www.linkedin.com/in/onri-jay-benally-a33816125/)
 
 ---
 
@@ -59,8 +59,6 @@ Minneapolis, MN | ojbs.name@gmail.com | (928) 275-1442 | [LinkedIn](https://www.
 - *Idea generation* • *1st principles & finite element methods* • *Rapid prototyping*.
 
 ---
-
-## Experience
 
 ## Experience
 

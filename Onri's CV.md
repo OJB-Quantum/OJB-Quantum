@@ -1,29 +1,30 @@
 # Onri Jay Benally
 
-Minneapolis, MN | ojbs.name@gmail.com | (928) 275-1442 | [LinkedIn](https://tinyurl.com/OJB-LinkedIn)
+Minneapolis, MN | ojbs.name@gmail.com | (928) 275-1442 | [LinkedIn](https://www.linkedin.com/in/onri-jay-benally-a33816125/)
 
 ---
 
-## Proficient Skills (Expertise Highlighted in Bold)
+## Proficient Skills 
+> *Expertise is Italicized*
 
 ### Hardware:
-- **Dilution refrigerator**: Bluefors XLDsl, cryogenic wiring, microwave packaging, & mixing chamber configuration to server.
-- **Optical & electron-beam lithography**: Karl Suss-MA6 • Heidelberg DWL200 • Raith EBPG-5000+ (100 kV).
-- **Deposition & plasma etching**: Ion Probe • PECVD • ALD • RIE • IBE • Sputtering • E-beam evaporation.
-- **Imaging**: SEM • AFM • Surface 2D/3D profilometry • 3D-scanning microscopy • 1-photon excitation.
-- **Machining & additive manufacturing**: Metal mill • Lathe • FDM • SLA • IR LASER cutting (150W).
+- **Dilution refrigerator**: *Bluefors XLDsl*, cryogenic wiring, microwave packaging, & mixing chamber configuration to server.
+- **Optical & electron-beam lithography**: *Karl Suss-MA6* • Heidelberg DWL200 • *Raith EBPG-5000+ (100 kV)*.
+- **Deposition & plasma etching**: *Ion Probe* • PECVD • ALD • RIE • *IBE* • *Sputtering* • *E-beam evaporation*.
+- **Imaging**: *SEM* • AFM • Surface 2D/3D profilometry • 3D-scanning microscopy • 1-photon excitation.
+- **Machining & additive manufacturing**: Metal mill • Lathe • *FDM* • SLA • *IR LASER cutting (150W)*.
 
 ### Software:
-- **Quantum Computing**: Qiskit • Qiskit Metal (Q-EDA).
-- **Engineering & Design**: MS Office • AutoCAD • Fusion 360 • KLayout • LinkCAD.
-- **Simulation & Analysis**: MuMax3 • SimScale CFD • Elmer FEM • Quanscient Allsolve.
-- **Programming**: Python + GPT-4 • Julia • Git • Tcl/Tk.
-- **3D & Visualization**: Blender 3D Graphics.
-- **Others**: LaTeX • Genisys BEAMER • Linux Terminal + RealVNC.
+- **Quantum Computing**: Qiskit • *Qiskit Metal (Q-EDA)*.
+- **Engineering & Design**: *MS Office* • *AutoCAD* • *Fusion 360* • *KLayout* • *LinkCAD*.
+- **Simulation & Analysis**: *MuMax3* • *SimScale CFD* • *Elmer FEM* • *Quanscient Allsolve*.
+- **Programming**: *Python + GPT-4* • Julia • Git • Tcl/Tk • Go • *Colab*.
+- **3D & Visualization**: *Blender 3D Graphics*.
+- **Others**: *LaTeX* • Genisys BEAMER • Linux Terminal + RealVNC.
 
 ### Problem Solving & Communication:
-- Ethical leadership • Optimism • Project management • Quantum technology advocacy.
-- Idea generation • 1st principles & finite element methods • Rapid prototyping.
+- *Ethical leadership* • *Optimism* • Project management • *Quantum technology advocacy*.
+- *Idea generation* • *1st principles & finite element methods* • *Rapid prototyping*.
 
 ---
 
@@ -32,7 +33,7 @@ Minneapolis, MN | ojbs.name@gmail.com | (928) 275-1442 | [LinkedIn](https://tiny
 ### Quantum Hardware Engineer – PhD Intern  
 **IBM Thomas J. Watson Research Center | Kevin Tien Group**  
 *May 2024 – August 2024*  
-- Advanced the wide-bandwidth quantum-limited amplifier development for large-scale quantum computing through **superconductivity research**.
+- Advanced the **wide-bandwidth quantum-limited amplifier development** for large-scale quantum computing through **superconductivity research**.
 - Automated the high-throughput characterization of loss in Nb & NbOx-based quantum chip samples probed with resonators at 10 mK.
 - Developed critical expertise in configuring **Bluefors XLDsI dilution fridges** & hardware connections to IBM server for experiments.
 - Recognized by IBM executive leadership for my **education initiatives** on quantum engineering and visual storytelling using Blender.
@@ -47,7 +48,7 @@ Minneapolis, MN | ojbs.name@gmail.com | (928) 275-1442 | [LinkedIn](https://tiny
 - Trained 11 PhD students & 1 faculty in **quantum device fabrication** & **scanning electron microscopy**.
 - Developed **high-yield Perpendicular Magnetic Tunnel Junctions (p-MTJs)** for **spintronic applications**.
 - Co-authored publications on **spintronic devices research**.
-- Advocated for quantum hardware training. Created GitHub tutorials for an e-beam lithography process in the lab, based on qubit pattern generation in Qiskit Metal. 
+- Advocated for quantum hardware training. Created GitHub tutorials for an e-beam lithography process in the lab, based on qubit pattern generation in Qiskit Metal.
 
 ### Student Technician  
 **University of Minnesota – Advanced Imaging Service for Objects & Spaces Lab**  
@@ -157,7 +158,7 @@ Minneapolis, MN | ojbs.name@gmail.com | (928) 275-1442 | [LinkedIn](https://tiny
 
 ---
 
-More info about Onri's awards & recognition 
+More info about Onri's awards & recognition
 - <https://twin-cities.umn.edu/news-events/hardwired-science>
 - <https://cse.umn.edu/ece/feature-stories/onri-jay-benally-receives-2024-nsf-graduate-research-fellowship>
 - <https://open.spotify.com/episode/3WRkVCatN20bEU65hdjRSH>

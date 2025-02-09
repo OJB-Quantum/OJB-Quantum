@@ -62,6 +62,8 @@ Minneapolis, MN | ojbs.name@gmail.com | (928) 275-1442 | [LinkedIn](https://www.
 
 ## Experience
 
+## Experience
+
 ### Quantum Hardware Engineer – PhD Intern  
 **IBM Thomas J. Watson Research Center | Kevin Tien Group**  
 *May 2024 – August 2024*  
@@ -71,31 +73,48 @@ Minneapolis, MN | ojbs.name@gmail.com | (928) 275-1442 | [LinkedIn](https://www.
 - Recognized by IBM executive leadership for my **education initiatives** on quantum engineering and visual storytelling using Blender.
 
 ### Graduate Research Assistant - PhD Student
-**University of Minnesota – Nano Magnetism & Quantum Spintronics Lab**  
+**University of Minnesota – Nano Magnetism & Quantum Spintronics Lab | Jian-Ping Wang Group**  
 *February 2020 – Present*  
 - Recognized as a **resident nanopatterning expert** on robust, solid-state, integrated, & dedicated spintronic chips. (8 years of hands-on fab experience).
 - Engineering & development of cryogenic classical magnetoresistive random-access memory (cryo-MRAM) & hybrid quantum processing unit (QPU) hardware using advanced, sustainable spintronic materials to enable next generation quantum error correction.
 - Led the development, engineering, & fabrication of high-quality superconducting Magnetic Tunnel Junction (MTJ) arrays & hybrid, magnetic spin qubits. (TaN, IrO2, RuO2, Nb). Device sizes (80 nm - 6 μm).
-- Chip patterning for computational magnetoresistive random-access memory (CRAM), spin-orbit torque magnetoresistive random-access memory (SOT-MRAM), and **millkelvin range cryogenic MRAM (cryo-MRAM)**.
+- Chip patterning for computational magnetoresistive random-access memory (CRAM), spin-orbit torque magnetoresistive random-access memory (SOT-MRAM), and **millkelvin range cryogenic MRAM (cryo-MRAM)**. Alloys: PtSn, PtSi, CoPd, CoSi, TaN, FePd, CoFe.
 - Trained 11 PhD students & 1 faculty in **quantum device fabrication** & **scanning electron microscopy**.
 - Developed **high-yield Perpendicular Magnetic Tunnel Junctions (p-MTJs)** for **spintronic applications**.
-- Co-authored publications on **spintronic devices research**.
+- Co-authored publications on **spintronic devices research**. (p-MTJs, Hall bars, Hall crosses, μ-resonators, & μ-coils).
 - Advocated for quantum hardware training. Created GitHub tutorials for an e-beam lithography process in the lab, based on qubit pattern generation in Qiskit Metal.
 
 ### Student Technician  
-**University of Minnesota – Advanced Imaging Service for Objects & Spaces Lab**  
+**University of Minnesota – Advanced Imaging Service for Objects & Spaces Lab | Samantha Porter Group**  
 *February 2020 – May 2020*  
-- Developed **3D modeling techniques** for photogrammetry and **3D virtual reality (VR) content**.
-
+- Developed 3D modeling techniques & imaging hardware for photogrammetry systems (low-cost single-shot **static 3D scanning** & image stitching).
+- Collaborated with small staff team on **3D virtual reality (VR) content** for low-cost supply integration
 ### Research Assistant  
-**University of Minnesota – Quantum Devices & Materials Lab**  
+**University of Minnesota – Quantum Devices & Materials Lab | Vlad Pribiag Group**  
 *June 2017 – August 2017*  
-- Optimized fabrication of **InSb Majorana nanowire devices** for **topological quantum computing**.
+- Optimized the process development of (III-V) InSb **Majorana nanowire devices** (100 nm spin-valves) for studies on
+**Majorana Fermion quasiparticles** & topological quantum logic gates.
+- Wrote recipes for e-beam lithography development, planarization, & plasma etching calibration based on extracted data. Operated & **qualified on semiconductor fab equipment** in the Minnesota Nano Center.
 
 ### Electric Vehicle Researcher (Volunteer)  
-**Utah State University – Electric Vehicle & Roadway Test Track Facility**  
+**Utah State University – Electric Vehicle & Roadway Test Track Facility | Regan Zane Group**  
 *January 2017 – April 2017*  
 - Tested **+60 kW electric vehicle subsystems**, including **wireless power transfer systems**.
+- Tested/ inspected +60 kW electric vehicle subsystems (ex. J1772 charging networks, sub-pavement in-motion wireless power transfer systems, **3-phase motor controls**, **powertrain**, etc.)
+
+### STEM Lab Assistant  
+**Utah State University – Engineering Lab | Jared Barret & Curtis Frazier Group**  
+*October 2016 – December 2016*  
+- Incorporated an unfinished electric vehicle project that was initially volunteered upon in the previous academic semester.
+- Led & directed the design, wiring, fabrication, field testing, & demonstration of functional **system hardware projects** based on experience (5-kilowatt-hour **all-terrain electric vehicle (e-ATV)**, 3-kilowatt-hour battery system, custom **LEGO/ VEX robotics**, high-powered photovoltaic array, & configuration of a **modular solar charging network** ).
+- As vice president for American Indian Science & Engineering Society chapter, outreached to the local community on the capabilities of robotics hardware, electric vehicles, & renewable energy via **public demonstrations**.
+
+### STEM Mentorship Research Assistant 
+**Utah State University – College of Science | Zachary Gompert, Alexis Ault, & Michael J. Taylor Groups**  
+*May 2016 – June 2016*  
+- Provided **data labeling**, extraction, & analysis services on **Zr microcrystal** structures, atmospheric **gravity waves**, & Lycaeides Idas butterflies using Microsoft Excel spreadsheets.
+- (Uranium-Thorium)/ Helium ((U-Th)/ He) thermochronology, IR CCD astroimaging, SEM, & digital microscopy were sources of fresh/ raw data.
+- Presented new learnings on **instrumentation techniques** for **data extraction** at the USU research **symposium**.
 
 ---
 

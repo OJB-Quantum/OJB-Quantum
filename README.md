@@ -99,7 +99,7 @@ Minneapolis, MN | ojbs.name@gmail.com | (928) 275-1442 | [LinkedIn](https://www.
 **Utah State University – Electric Vehicle & Roadway Test Track Facility | Regan Zane Group**  
 *January 2017 – April 2017*  
 - Tested **+60 kW electric vehicle subsystems**, including **wireless power transfer systems**.
-- Tested/ inspected +60 kW electric vehicle subsystems (ex. J1772 charging networks, sub-pavement in-motion wireless power transfer systems, **3-phase motor controls**, **powertrain**, etc.)
+- Tested/ inspected +60 kW electric vehicle subsystems (ex. J1772 charging networks, sub-pavement wireless induction charging networks, **3-phase motor controls**, **powertrain**, etc.)
 
 ### STEM Lab Assistant  
 **Utah State University – Engineering Lab | Jared Barret & Curtis Frazier Group**  

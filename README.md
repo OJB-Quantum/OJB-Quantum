@@ -37,7 +37,7 @@ Minneapolis, MN | ojbs.name@gmail.com | (928) 275-1442 | [LinkedIn](https://www.
 ---
 
 ## Proficient Skills 
-> *Expertise is Italicized*
+> *Expertise is Italicized in this Section*
 
 ### Hardware:
 - **Dilution refrigerator**: *Bluefors XLDsl*, cryogenic wiring, microwave packaging, & mixing chamber configuration to server.

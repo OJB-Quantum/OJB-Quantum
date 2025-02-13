@@ -147,7 +147,7 @@ Minneapolis, MN | ojbs.name@gmail.com | (928) 275-1442 | [LinkedIn](https://www.
 
 1. **Benally, O.J.**, Lyu, D., Zink, B., Lv, Y., Mkhoyan, K.A., Khanal, P., Wang, W., Shoup, J.E., Hoskins, B., Gopman, D.B., and Wang, J.P., 2023. Magnetic random-access memory (MRAM) for embedded quantum computing hardware. GOMACTech [Submitted Abstract]. – Contributions: main author, designed the quantum hardware architecture.
 2. Zhang, D., Jiang, W., Yun, H., **Benally**, O.J., Peterson, T., Cresswell, Z., Fan, Y., Lv, Y., Yu, G., Barriocanal, J.G. and Swatek, P.W., and Wang, J.P., 2023. Robust negative longitudinal magnetoresistance and spin–orbit torque in sputtered Pt3Sn and Pt3SnxFe1-x topological semimetal. Nature Communications, 14(1), p.4151. – Contributions: co-author, microdevice patterning.
-+30 more publications: [Google Scholar](https://z.umn.edu/OJB-Google-Scholar)
+**30 more publications:** [Google Scholar](https://z.umn.edu/OJB-Google-Scholar)
 
 ---
 

@@ -24,7 +24,7 @@
 
 Some of my stuff: quantum computer modeled in Blender (first), 3D-printed quantum computer (second), nano MTJ array memory chip (third), & 400-qubit Mo superconductor-based quantum processor chip (fourth):
 
-![ezgif-1-731c8dbc9e](https://github.com/OJB-Quantum/OJB-Quantum/assets/88035770/5d88de7b-5330-448a-95fd-6c5b306200c1) ![ezgif-7-614ee69646](https://github.com/OJB-Quantum/OJB-Quantum/assets/88035770/0b49b61d-a971-4024-85d0-85c72ec1cfd7) ![ezgif-3-e77a35f60e](https://github.com/OJB-Quantum/OJB-Quantum/assets/88035770/e0d86f8a-f96e-4d57-b0d9-94675b9c89cc) ![ezgif-3-f914e0a24c](https://github.com/OJB-Quantum/OJB-Quantum/assets/88035770/82d57e11-ff0d-4aad-9694-9359e20fbb06)
+![ezgif-1-731c8dbc9e](https://github.com/OJB-Quantum/OJB-Quantum/assets/88035770/5d88de7b-5330-448a-95fd-6c5b306200c1) ![ezgif-7-614ee69646](https://github.com/OJB-Quantum/OJB-Quantum/assets/88035770/0b49b61d-a971-4024-85d0-85c72ec1cfd7) ![ezgif-3-e77a35f60e](https://github.com/OJB-Quantum/OJB-Quantum/assets/88035770/e0d86f8a-f96e-4d57-b0d9-94675b9c89cc) ![ezgif-3-f914e0a24c](https://github.com/OJB-Quantum/OJB-Quantum/assets/88035770/82d57e11-ff0d-4aad-9694-9359e20fbb06)  
 
 ---
 

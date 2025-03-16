@@ -30,6 +30,7 @@ Some of my stuff: quantum computer modeled in Blender (first), 3D-printed quantu
 
 > ### Click to view Onri's CV: [![Open](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/OJB-Quantum/OJB-Quantum/blob/main/Onri's_CV.ipynb)
 
+![](https://komarev.com/ghpvc/?username=ojb-quantum&color=green)
 <!---
 OJB-Quantum/OJB-Quantum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

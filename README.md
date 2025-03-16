@@ -28,7 +28,7 @@ Some of my stuff: quantum computer modeled in Blender (first), 3D-printed quantu
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OJB-Quantum&theme=vision-friendly-dark&border_radius=2.5&card_width=600&card_height=80&hide_current_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OJB-Quantum&theme=android-dark&border_radius=2.5&card_width=1000&card_height=80&hide_current_streak=true)](https://git.io/streak-stats)
 
 ---
 

@@ -1,6 +1,4 @@
-![406542003-9ac28e7a-f47e-4fbc-8c51-70903f96d9dd](https://github.com/user-attachments/assets/3cbd27bc-3348-40b3-ad42-d6e718ca7866)
-
-![20240724_222153_857](https://github.com/user-attachments/assets/d08af682-1f0d-4ddb-8e98-999da9bfdd96)
+![20240724_222153_857](https://github.com/user-attachments/assets/5edfe77b-4b36-4fe5-b2b8-37e8d8e23f40)
 
 
 - 👋🏽 Hi, I’m Onri @OJB-Quantum. I'm a Diné (Navaho) tribesman, 100% Indigenous American, doing PhD work on quantum computing chip hardware & beyond CMOS classical memory devices based on spintronics.

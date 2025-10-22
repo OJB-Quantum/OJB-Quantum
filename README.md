@@ -1,7 +1,7 @@
 ![20240724_222153_857](https://github.com/user-attachments/assets/5edfe77b-4b36-4fe5-b2b8-37e8d8e23f40)
 
 
-- 👋🏽 Hi, I’m Onri @OJB-Quantum. I'm a Diné (Navaho) tribesman, 100% Indigenous American, doing PhD work on quantum computing chip hardware & beyond CMOS quantum-adjacent memory devices based on spintronics.
+- 👋🏽 Hi, I’m Onri @OJB-Quantum. I'm a Diné (Navaho) tribesman, 100% Indigenous American, doing PhD work on quantum computing chip hardware & beyond CMOS quantum-adjacent memory devices based on advanced spintronics.
 - 🤠 I'm self-taught in practical electronics, mathematics, linguistics, & scientific computing.
 - 🧑🏻‍🏫 My areas of expertise include: electron-beam lithography, nanodevice patterning, quantum hardware systems engineering, materials integration, idea generation, implementation, & demonstration.
 - 👀 My interest is in sustainable quantum hardware engineering, nanofabrication engineering, quantum computation, generative design, & data-driven 3D modeling.

@@ -20,7 +20,8 @@
 - ⚡ [A website I made on ArchGIS on things to consider when building electric bicycles](https://experience.arcgis.com/experience/0e0409089f9442bbb4a26493d761aadc).
 - 🎬 [My quantum chip rendering tutorials featured by Dr. Zlakto Minev from IBM Research](https://x.com/zlatko_minev/status/1812879194285563984).
 - 🎬 [My quantum chip rendering tutorials featured in the Brian Siegelwax blog](https://bsiegelwax.substack.com/i/145883109/rendering-laughter).
-- 📖 [An article feature of me on A.I. & linguistics by Sean Dudley & Al Kuslikis from ASU/AIHEC](https://tribalcollegejournal.org/opportunity-and-risk-artificial-intelligence-and-indian-country)
+- 📖 [An article feature of me on A.I. & linguistics by Sean Dudley & Al Kuslikis from ASU/AIHEC](https://tribalcollegejournal.org/opportunity-and-risk-artificial-intelligence-and-indian-country).
+- 🆆 [My high resolution open access renderings & graphics contributions on Wikimedia Commons](https://commons.wikimedia.org/w/index.php?title=Special:ListFiles/OJB_Quantum&ilshowall=1).
 
 ---
 

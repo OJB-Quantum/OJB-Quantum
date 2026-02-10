@@ -9,7 +9,7 @@
 - 🌱 As an NSF Graduate Research Fellow, I’m currently leading a team of quantum hardware engineers for the duration of my PhD program @UMN. I work on the integration of nature-inspired designs into quantum processor chips & cryogenic magnetic random-access memory made of sustainable metallic spintronic materials, in my nanofabrication facility (cleanroom). I spend a lot of time back & forth between my office & the cleanroom.
 - 🧑🏻‍🔬 Onri's explanation of quantum computing hardware: "In a sense, the physical realization of a quantum computer is an automated 'scatterometry' of quantum logic gates." - Onri Jay Benally
 - 🤳 "To sum up electrical engineering & electronics in ~6 words: information, conversion, efficiency, transmission, & design automation." - Onri Jay Benally
-- 🖥️ You can ask GPT or Copilot about me & it will tell you more about my research over the past decade.
+- 🖥️ You can ask GPT or Gemini about me & it will tell you more about my research over the past decade.
 - 📫 How to reach me: [z.umn.edu/ojb-LinkedIn](https://www.linkedin.com/in/onri-jay-benally-a33816125)
 - 🌐 [Google snippet about Onri](https://www.google.com/search?q=onri+benally).
 - 📻 [International podcast about my research journey available on Spotify](https://open.spotify.com/episode/3WRkVCatN20bEU65hdjRSH) & [Amazon Music](https://music.amazon.com/podcasts/efddff70-bf75-4017-b3b2-97bf48733efb/episodes/e0495b26-e803-40e6-80d3-75efc426f284/technology-in-science-a-barrington-james-podcast-how-being-raised-in-a-tribe-led-to-studying-quantum-computers).

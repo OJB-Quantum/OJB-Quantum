@@ -1,0 +1,178 @@
+\documentclass[10pt,letterpaper]{article}
+
+% --- CONTROL KNOBS ---
+\def\DocumentMargin{0.5in}
+\def\MainColorRGB{0,0,255}
+\def\MainFontName{IBMPlexSans}
+% ---------------------
+
+\usepackage[margin=\DocumentMargin]{geometry}
+\usepackage{fontspec}
+\usepackage{xcolor}
+\usepackage{tabularx}
+\usepackage{enumitem}
+\usepackage{ragged2e}
+\usepackage{microtype}
+\usepackage{array}
+\usepackage{hyperref}
+
+\definecolor{PureBlue}{RGB}{\MainColorRGB}
+
+\setmainfont{\MainFontName}[
+  Extension=.otf,
+  UprightFont=*-Regular,
+  BoldFont=*-SemiBold,
+  ItalicFont=*-Italic,
+  BoldItalicFont=*-SemiBoldItalic
+]
+
+\urlstyle{same}
+\hypersetup{
+  colorlinks=true,
+  urlcolor=PureBlue,
+  linkcolor=PureBlue,
+  citecolor=PureBlue,
+  pdftitle={Onri Jay Benally Quantum Hardware Systems Resume},
+  pdfauthor={Onri Jay Benally}
+}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{2pt}
+\RaggedRight
+\microtypesetup{protrusion=true, expansion=false}
+
+\newcommand{\name}[1]{%
+  {\fontsize{24}{26}\selectfont\bfseries\color{PureBlue} #1}\par
+}
+
+\newcommand{\roleline}[1]{%
+  {\fontsize{10.5}{12}\selectfont\bfseries #1}\par
+}
+
+\newcommand{\sectionheading}[1]{%
+  \vspace{4pt}%
+  {\fontsize{9.5}{10.5}\selectfont\bfseries\color{PureBlue}\MakeUppercase{#1}}\par
+  \vspace{-6pt}{\color{PureBlue}\rule{\linewidth}{0.45pt}}\vspace{1pt}
+}
+
+\newcommand{\entry}[4]{%
+  \textbf{#1}\hfill {\color{PureBlue}#2}\par
+  {\fontsize{8.7}{10}\selectfont #3}\par
+  \vspace{-2pt}#4\vspace{1pt}
+}
+
+\newenvironment{compactitems}{%
+  \begin{itemize}[leftmargin=12pt,itemsep=1.0pt,topsep=1pt,parsep=0pt,partopsep=0pt]
+}{%
+  \end{itemize}
+}
+
+\newcolumntype{Y}{>{\RaggedRight\arraybackslash}X}
+
+\begin{document}
+
+\name{ONRI JAY BENALLY}
+\roleline{Quantum Hardware Systems Engineer \textmd{| Magnetics | Frontier Hardware Knowledge Repositories | Quantum Chip-Patterning Workflows}}
+{\fontsize{8.7}{10}\selectfont
+Minneapolis, MN \ | \ \href{mailto:ojbs.name@gmail.com}{ojbs.name@gmail.com} \ | \ \href{tel:+16514343799}{(651) 434-3799} \ | \ \href{https://tinyurl.com/OJB-LinkedIn}{LinkedIn} \ | \ \href{https://github.com/OJB-Quantum}{GitHub} \ | \ \href{https://z.umn.edu/OJB-Google-Scholar}{Google Scholar} \ | \ \href{https://orcid.org/0000-0002-8391-9105}{ORCID}
+}
+
+\sectionheading{Strategic Profile}
+\fontsize{8.9}{10.15}\selectfont
+Build and de-risk the device platforms, cryogenic test infrastructure, chip-patterning workflows, and technical knowledge infrastructure needed to move quantum hardware from
+component-level research toward scalable system architectures.
+
+8+ years of hands-on experience across nanofabrication, cryogenic hardware testing, spintronic magnetics, superconducting resonator metrology, quantum chip patterning, and executive-facing technical roadmaps for quantum stakeholders.
+
+\sectionheading{Core Engineering Value}
+\begin{tabularx}{\linewidth}{@{}p{0.31\linewidth}Y@{}}
+\textbf{Scalable quantum systems} & Cryogenic MRAM, hybrid QPU hardware, magnetic cluster qubit prototypes, superconducting resonator chiplets, quantum-limited-amplifier test conditions, and dilution-fridge workflows. \\
+\textbf{Magnetics-to-quantum hardware bridge} & MTJ and p-MTJ arrays, SOT-MRAM, cryogenic SOT CRAM, CoFeB-based quantum magnonic buses, magnetic nanocluster deposition/patterning, and spin-orbit torque (SOT) material device development. \\
+\textbf{Frontier hardware knowledge systems} & Reusable documentation, GitHub/Markdown tutorials, photomask layout training, scientific-computing examples, Blender 3D quantum hardware illustrations, and repository-style chip-patterning guidance. \\
+\textbf{Technical strategy and translation} & Trusted technical contact for senior sell-side equity analysts and quantum industry leaders; invited lecturer/keynote speaker for quantum hardware, scientific computing, and quantum education audiences. \\
+\end{tabularx}
+
+\sectionheading{Technical Systems}
+\begin{tabularx}{\linewidth}{@{}p{0.2\linewidth}Y@{}}
+\textbf{Cryogenic and quantum\newline hardware} & Bluefors XLDsl dilution refrigerator, mK testing, Nb thin films, CPW resonators, superconducting resonator chiplets, grAl/MoGe high-kinetic-inductance resonators, UHV in-situ shadow-mask patterning, packaging/wiring, low-temperature metrology. \\
+\textbf{Nanofabrication\newline and metrology} & Raith EBPG-5000+ 100 kV, Karl Suss MA6, Heidelberg DWL200, PECVD, ALD, RIE, IBE, sputtering, electron-beam evaporation, SEM, AFM, profilometry, LASER scanning microscopy, metal hardmasks, MTJ process flows. \\
+\textbf{Scientific computing\newline and repositories} & Python, Julia, Go, CUDA Python/CuPy, Qiskit, Quantum Metal, MuMax3, Elmer FEM, Gmsh, ParaView, KLayout, LinkCAD, Genisys BEAMER, Git/GitHub, Markdown, LaTeX, Linux, IBM Granite, Google Colab, Ollama, SolidWorks. \\
+\end{tabularx}
+
+\sectionheading{Experience}
+\entry{NSF Graduate Research Fellow}{Aug 2024 - Present}{University of Minnesota - Nano Magnetism and Quantum Spintronics Lab, ECE Dept. \ | \ Minneapolis, MN}{%
+\begin{compactitems}
+  \item Engineering cryogenic MRAM and hybrid QPU hardware integrating advanced spintronics materials for ultra-low-Joule qubit-control and readout-sampling concepts across mK-to-K operating regimes.
+  \item Collaborate with Idaho National Laboratory, MIT Lincoln Laboratory, and the UMN Gang Qiu Group on a magnetic cluster qubit platform; responsible for quantum device design prototypes and qubit-device patterning recipes.
+  \item Developed experiment plans and device recipes for Ni4W cryogenic SOT devices, cryogenic SOT CRAM, CoFeB-based quantum magnonic buses, 30 nm MTJs with metal hardmasks, grAl/MoGe resonators, and Tb magnetic nanocluster deposition/patterning.
+  \item Developed a novel UHV-compatible in-situ metal shadow-mask patterning system for high-throughput device patterning and testing within a modular system rated at $10^{-9}$ Torr.
+  \item Serve as Principal Investigator for an ASU Quantum Collaborative-funded quantum hardware and quantum science education project in the Navajo language.
+  \item Act as a confidential technical roadmap contact for senior sell-side equity analysts and quantum industry leaders; deliver faculty-level talks on quantum-limited amplifiers, cryogenic memories, control systems, cryogenic testing setups, and IBM-based scientific computing for magnetics.
+\end{compactitems}}
+
+\entry{Graduate Research Assistant}{Jun 2022 - Present}{University of Minnesota - Nano Magnetism and Quantum Spintronics Lab, ECE Dept. \ | \ Minneapolis, MN}{%
+\begin{compactitems}
+  \item Recognized as resident nanodevice patterning expert for robust, solid-state, integrated spintronic chips; led high-quality superconducting MTJ arrays and hybrid magnetic qubit work across TaN, IrO$_{2}$, RuO$_{2}$, and Nb materials with device sizes from 80 nm to 6 µm.
+  \item Trained and mentored academic researchers in high-yield quantum device fabrication, electron microscopy, and photomask design/layout; supplemented training with \href{https://github.com/OJB-Quantum}{GitHub repository} Markdown tutorials.
+  \item Delivered invited internal and external lecture/workshop series on scientific illustration aided by micrographs, real quantum data, and scientific-computing results; created Colab workflow examples for Quantum Metal, formerly Qiskit Metal, enabling reproducible superconducting and hybrid quantum device layout tutorials for quantum hardware learners.
+\end{compactitems}}
+
+\entry{Quantum Hardware Engineer - PhD Intern}{May 2024 - Aug 2024}{IBM Thomas J. Watson Research Center - Kevin Tien Group \ | \ Yorktown Heights, NY}{%
+\begin{compactitems}
+  \item Automated a high-throughput in-situ low-temperature metrology process for high quality factor superconducting Nb thin films and CPW resonators supporting quantum-centric supercomputing systems.
+  \item Developed 10 mK test setups for superconducting resonator chiplets from experimental fabrication splits to mimic Josephson Traveling Wave Parametric Amplifier working conditions for integration.
+  \item Sole hardware-engineer intern permitted to assemble and operate a Bluefors XLDsl dilution refrigerator hands-on for experiments and configure IBM data servers with Linux.
+  \item Produced extensive experimental-design and setup documentation; recognized for high-quality presentations, hands-on quantum measurement lab work, and quantum hardware education/illustration initiatives.
+\end{compactitems}}
+
+\sectionheading{Selected Earlier Hardware Work}
+\entry{Research Assistant - UMN Nano Magnetism and Quantum Spintronics Lab}{2020 - 2022}{Minneapolis, MN}{%
+\begin{compactitems}
+  \item Trained 11 PhD-level academic users and 1 faculty member on high-yield quantum device fabrication and electron microscopy as a highly skilled undergraduate researcher; developed patterning protocols for p-MTJ arrays in SOT-MRAM, CRAM, and magnetic brain-interface chips using PtSn, PtSi, CoPd, CoSi, TaN, FePd, and CoFe alloys.
+\end{compactitems}}
+
+\entry{Research Assistant - REU - UMN Quantum Devices and Materials Lab}{2017}{Minneapolis, MN}{%
+\begin{compactitems}
+  \item Optimized process development for III-V InSb Majorana nanowire devices and 100 nm spin-valves for Majorana quasiparticle studies and topological quantum logic-gate research.
+\end{compactitems}}
+
+\entry{Research Assistant - REU - UMN Nano Magnetism and Quantum Spintronics Lab}{2018}{Minneapolis, MN}{%
+\begin{compactitems}
+  \item Developed process recipes for microscale MTJ arrays and Hall bars; obtained up to 50\% magnetoresistance ratio in FePd and Co/Pd-based MTJs.
+\end{compactitems}}
+
+\entry{Lead Volunteer - Electric-Vehicle and Power Hardware}{2016 - 2017}{}{%
+\begin{compactitems}
+  \item Inspected/tested 60+ kW EV subsystems and led field-demonstrated electric ATV, battery, powertrain, robotics, PV-array, and modular solar-charging hardware projects.
+\end{compactitems}}
+
+\sectionheading{Education and Credentials}
+\begin{tabularx}{\linewidth}{@{}p{0.28\linewidth}Y@{}}
+\textbf{Ph.D., Electrical Engineering} & University of Minnesota-Twin Cities, quantum hardware and spintronics, expected Dec 2027. \\
+\textbf{B.S.Md.S., Multidisciplinary Studies} & University of Minnesota-Twin Cities, Dec 2021. \\
+\textbf{A.S., General Studies, Physics} & Utah State University-Eastern, Dec 2016. \\
+\textbf{Selected certifications} & IBM Certified Quantum Developer - Qiskit v0.2x; IBM Quantum Business Foundations; Code Generation and Optimization Using IBM Granite; IBM Growth Behaviors. Full training portfolio: \href{https://z.umn.edu/OJB-Certifications}{z.umn.edu/OJB-Certifications}. Credential profile: \href{https://www.credly.com/users/onri-jay-benally}{Credly}. \\
+\end{tabularx}
+
+\sectionheading{Leadership, Strategy, and Communication}
+\begin{tabularx}{\linewidth}{@{}p{0.28\linewidth}Y@{}}
+\textbf{ASU Quantum Collaborative} & 2025 Seed Fund Project Principal Investigator; 2024 Steering Committee Member. \\
+\textbf{Technical community leadership} & 2026 IEEE Magnetics Society Twin Cities Chapter Vice President; Quantum Device Consortium Quantum Metal community advocate/workflow maintainer; Open Source Hardware Association member; QuantumGrad mentor and lecturer. \\
+\textbf{Selected invited/keynote speaking} & Quantum Device Consortium speaker, 2026; Harvard SEAS invited lecturer/keynote speaker, 2026; University of Maryland Q$^{3}$ Joint Quantum Initiative QREATE keynote speaker, 2025; Quantum Collaborative Summit keynote speaker, 2023; UMN Quantum + Chips invited lecturer, 2023. \\
+\textbf{Education and outreach} & Trained more than 25 academic researchers in cleanroom nanodevice fabrication; created quantum and hardware career-readiness content, STEM demonstrations, and public-facing quantum hardware models. \\
+\end{tabularx}
+
+\sectionheading{Selected Publications and Technical Output}
+\begin{tabularx}{\linewidth}{@{}p{0.28\linewidth}Y@{}}
+\textbf{Publication record} & 17 papers/abstracts spanning MRAM, MTJs, SOT materials, voltage-controlled exchange coupling, superconducting/spintronic hardware, and embedded quantum computing architecture. Full publication profile: \href{https://z.umn.edu/OJB-Google-Scholar}{Google Scholar}. \\
+\textbf{Main-author architecture} & ``Magnetic random-access memory (MRAM) for embedded quantum computing hardware,'' GOMACTech submitted abstract, 2023. \\
+\textbf{Selected co-authored venues} & Nature Communications, Advanced Materials, Advanced Electronic Materials, Applied Physics Letters, Physical Review B, Physical Review Materials, Nano Letters, Scientific Reports, EIPBN. \\
+\textbf{Public technical footprints} & \href{https://github.com/OJB-Quantum}{GitHub/OJB-Quantum}, \href{https://z.umn.edu/OJB-Google-Scholar}{Google Scholar}, \href{https://orcid.org/0000-0002-8391-9105}{ORCID}, \href{https://tinyurl.com/OJB-Projects-001}{hardware projects portfolio}. \\
+\end{tabularx}
+
+\sectionheading{Selected Recognition}
+\fontsize{8.9}{10.2}\selectfont
+\textbf{Advanced Materials journal cover feature (2025)} \ | \ ECE Department media recognition (2025) \ | \textbf{\ NSF Graduate Research Fellowship (2024)} \ | \ IBM media and executive recognition for quantum hardware illustration/education (2024) \ | \ Womanium Global Quantum Scholarship (2023) \ | \ Raith GmbH media recognition (2021) \ | \ Thank-a-Teacher Award (2021) \ | \ IBM Quantum Qubit by Qubit full sponsorship (2020) \ | \ NSF MRSEC Fellowships - REU (2017, 2018) \ | \ Chief Manuelito Scholar Award and Presidential Scholar Award (2014-2017)
+
+\end{document}

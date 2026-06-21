@@ -1,15 +1,16 @@
 ![20240724_222153_857](https://github.com/user-attachments/assets/5edfe77b-4b36-4fe5-b2b8-37e8d8e23f40)
 
 
-- 👋🏽 Hi, I’m Onri @OJB-Quantum. I'm a Diné (Navaho) tribesman, 100% Indigenous American, doing PhD work on quantum computing chip hardware & beyond CMOS quantum-adjacent memory devices based on advanced spintronics. I'm also an advocate for open source hardware & software technologies.
+- 👋🏽 Hi, I’m Onri @OJB-Quantum. I'm a Diné (Navaho) tribesman, 100% Indigenous American, doing PhD work on quantum computing chip hardware & beyond-CMOS quantum-adjacent memory devices based on advanced spintronics. I advocate for open source hardware & software technologies. Also, I create knowledge systems through GitHub based on my expertise.
 - 🤠 I'm self-taught in practical electronics, mathematics, linguistics, & scientific computing.
 - 🧑🏻‍🏫 My areas of expertise include: electron-beam lithography, nanodevice engineering/patterning, quantum hardware systems engineering, materials integration, process engineering/development, idea generation, implementation, & demonstration. 
 - 👀 My interest is in sustainable quantum hardware engineering, nanofabrication engineering, quantum scientific computing, generative design, fractal geometry, & data-driven 3D modeling.
 - 🏢 I'm a former Quantum Hardware Engineer at IBM Research, Yorktown Heights, New York ([TJ Watson Research Center](https://research.ibm.com/labs/yorktown-heights)). At IBM I advanced the scaling/ accuracy of quantum-centeric supercomputing via quantum-limited parametric amplifier superconducting materials research for high bandwidth quantum processors. I also generated extensive documentation on XLDs Bluefors dilution fridges & highly experimental processes on superconducting chiplet measurement automation. (This made me the 1st Native/ Indigenous American Quantum Hardware Engineer/ Quantum Computing Engineer).
 - 🌱 As an NSF Graduate Research Fellow, I’m currently leading a team of quantum hardware engineers for the duration of my PhD program @UMN. I work on the integration of nature-inspired designs into quantum processor chips & cryogenic magnetic random-access memory made of sustainable metallic spintronic materials, in my nanofabrication facility (cleanroom). I spend a lot of time back & forth between my office & the cleanroom.
-- ☢️ My quantum device lithography repository known as 'Qiskit-Metal-to-Litho' was officially integrated into the [Quantum Metal Ecosystem](https://qiskit-community.github.io/qiskit-metal/ecosystem.html) in 2026.
-- 🧑🏻‍🔬 Onri's explanation of quantum computing hardware: "In a sense, the physical realization of a quantum computer is an automated 'scatterometry' of quantum logic gates." - Onri Jay Benally
+- ☢️ My quantum device lithography repository known as 'Qiskit-Metal-to-Litho' was officially integrated into the [Quantum Metal Ecosystem](https://qiskit-community.github.io/qiskit-metal/ecosystem.html), formerly known as Qiskit Metal, in 2026.
+- 🧑🏻‍🔬 Explanation of quantum computing hardware: "In a sense, the physical realization of a quantum computer is an automated 'scatterometry' of quantum logic gates." - Onri Jay Benally
 - 🤳 "To sum up electrical engineering & electronics in ~6 words: information, conversion, efficiency, transmission, & design automation." - Onri Jay Benally
+- 📚 "Etymologies, anatomies, and classification trees are some of the best ways to learn about anything, especially to build the strongest grounding for knowledge systems." - Onri Jay Benally
 - 🖥️ You can ask ChatGPT or Gemini about me & it will tell you more about my research over the past decade.
 - 📫 How to reach me: [z.umn.edu/ojb-LinkedIn](https://www.linkedin.com/in/onri-jay-benally-a33816125).
 - 🌐 [Google snippet about Onri](https://www.google.com/search?q=onri+benally).

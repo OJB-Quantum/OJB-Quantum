@@ -23,8 +23,7 @@
 - 🎬 [My quantum chip rendering tutorials featured by Dr. Zlakto Minev from IBM Research](https://x.com/zlatko_minev/status/1812879194285563984).
 - 🎬 [My quantum chip rendering tutorials featured in the Brian Siegelwax blog](https://bsiegelwax.substack.com/i/145883109/rendering-laughter).
 - 📖 [An article feature of me on A.I. & linguistics by Sean Dudley & Al Kuslikis from ASU/AIHEC](https://tribalcollegejournal.org/opportunity-and-risk-artificial-intelligence-and-indian-country).
-- 🆆 [My high resolution open access renderings & graphics contributions on Wikimedia Commons](https://commons.wikimedia.org/w/index.php?title=Special:ListFiles/OJB_Quantum&ilshowall=1).
-
+- 🆆 [My high resolution open access renderings & graphics contributions on Wikimedia Commons](https://w.wiki/FHwj).
 ---
 
 Some of my creations: quantum computer modeled in Blender (first), 3D-printed quantum computer (second), nano MTJ array memory chip (third), & 400-qubit Mo superconductor-based quantum processor chip (fourth):
